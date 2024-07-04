@@ -1,0 +1,21 @@
+nav > ul > li{
+    display: inline;
+    margin-right: 15px;
+}
+
+nav > ul > li > a{
+    text-decoration: none;
+    background-color: crimson;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.blue{
+    width: 300px;
+    height: 300px;
+}
+footer > p{
+    text-align: center;
+    color: rgba(194, 191, 191, 0.781);
+}
